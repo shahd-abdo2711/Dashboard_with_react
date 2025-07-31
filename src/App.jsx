@@ -1,10 +1,7 @@
 
 import './App.css'
-import '@fortawesome/fontawesome-free/css/all.min.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
-import { faStar, faEye, faCodeBranch } from '@fortawesome/free-solid-svg-icons';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faStar, faEye, faCodeBranch } from '@fortawesome/free-solid-svg-icons'
 import { FaHome, FaUser, FaEnvelope, FaClock, FaTasks, FaUsers, FaCog, FaLifeRing, FaShieldAlt } from 'react-icons/fa';
 
 function App() {
